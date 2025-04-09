@@ -13,12 +13,16 @@ html {
     box-sizing: inherit;
 }
 
-.material-symbols-outlined {
+.material-symbols-outlined.noir{
   font-variation-settings:
-  'FILL' 0,
+  'FILL' 100,
   'wght' 400,
   'GRAD' 0,
   'opsz' 24
+}
+
+span.noir{
+    fill: 1;
 }
 
 
